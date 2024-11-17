@@ -27,8 +27,8 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript-logo.png" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/></a>
   <a href="https://www.git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
@@ -41,11 +41,11 @@
 ### 🌟 Most Recent Projects
 - **[Fashjar](#)**: A fully functional e-commerce website designed to meet industry standards, built with the MERN stack. This project allows users to browse and purchase products with a seamless shopping experience.
   - Features: Product browsing, user authentication, payment gateway integration, cart management.
-  - Tools Used: MongoDB, Express, HTML, CSS, Bootstrap,  Node.js, Git.
+  - Tools Used: MongoDB, Express, React, Node.js, HTML, CSS, Bootstrap, Git.
   
 - **[Vehicle Service Booking Application](#)**: A platform for booking vehicle services, enabling users to schedule and manage vehicle maintenance and repair appointments.
   - Features: Appointment scheduling, provider management, user authentication.
-  - Tools Used: MongoDB, Express, React, Node.js, TailwindCSS, Typescript
+  - Tools Used: MongoDB, Express, React, Node.js, TailwindCSS, TypeScript.
 
 ---
 
@@ -72,13 +72,10 @@
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="blank">
+  <a href="https://www.linkedin.com/in/arjunreji/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter-profile" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="blank">
+  <a href="mailto:arjunr1307@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Email-%230D0D0D.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
