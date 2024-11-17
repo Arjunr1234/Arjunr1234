@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjun</h1>
+<h1 align="center">Hi 👋, I'm Arjun R</h1>
 <h3 align="center">MERN Stack Developer | Passionate About Building Scalable Web Applications</h3>
 
 <p align="center">
