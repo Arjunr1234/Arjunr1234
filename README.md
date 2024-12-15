@@ -43,9 +43,22 @@
   - Features: Product browsing, user authentication, payment gateway integration, cart management.
   - Tools Used: MongoDB, Express, React, Node.js, HTML, CSS, Bootstrap, Git.
   
-- **[Vehicle Service Booking Application](#)**: A platform for booking vehicle services, enabling users to schedule and manage vehicle maintenance and repair appointments.
-  - Features: Appointment scheduling, provider management, user authentication.
-  - Tools Used: MongoDB, Express, React, Node.js, TailwindCSS, TypeScript.
+- **[Vehicle Service Booking Application](#)**:  
+  A platform for booking vehicle services, allowing users to schedule and manage vehicle maintenance and repair appointments.  
+
+  - **Features**:  
+    - Appointment scheduling for users and providers.  
+    - Provider management system for seamless operations.  
+    - Secure user authentication.  
+    - Real-time chat functionality using **Socket.io**.  
+    - Audio and video call integration with **WebRTC**.  
+
+  - **Tools Used**:  
+    - **Backend**: Node.js, Express  
+    - **Frontend**: React, Tailwind CSS, TypeScript  
+    - **Database**: MongoDB  
+    - **Communication**: Socket.io, WebRTC  
+
 
 ---
 
